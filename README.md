@@ -1,6 +1,6 @@
 ## Olá! Eu sou Jalbert Ramon
 
-☕ Estudando HTML, Css e Javascript<br>
+📚 Estudando HTML, Css e Javascript<br>
 🖥️ Desenvolvedor Front-End em Andamento
 
 <div align="center">
